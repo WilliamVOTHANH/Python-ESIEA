@@ -1,3 +1,4 @@
+test 
 a = int(input("Nombre à décomposer: "))
 b = int(input ("Puissance de 2: "))
 
