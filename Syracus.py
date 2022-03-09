@@ -1,5 +1,5 @@
 N = int(input("Nombre initial: "))
-n = int(input ("Nombre d'iteration: "))
+n = int(input ("Nombre d'iteration : "))
 u = N
 print (u)
 i = 0
